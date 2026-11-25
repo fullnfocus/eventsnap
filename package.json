@@ -1,0 +1,19 @@
+{
+  "name": "eventsnap",
+  "version": "1.0.0",
+  "description": "GE2340 group project: turn campus event posters into calendar events with OCR + an LLM",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "eval": "node eval/run.js",
+    "score": "node eval/score.js",
+    "test": "node --test test/*.test.js"
+  },
+  "optionalDependencies": {
+    "jpeg-js": "^0.4.4",
+    "jsqr": "^1.4.0",
+    "pngjs": "^7.0.0"
+  },
+  "license": "MIT"
+}

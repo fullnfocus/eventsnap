@@ -1,0 +1,3 @@
+file,source,is_poster,collected_on,title,start_date,start_time,end_time,location,registration_link,has_qr,notes
+example_photo_01.jpg,photo,1,2026-11-26,Hall 9 Movie Night,2026-12-04,19:00,21:00,Hall 9 Common Room,https://forms.gle/example,1,DELETE THIS EXAMPLE ROW
+example_other_01.jpg,other,0,2026-11-26,,,,,,,,DELETE THIS EXAMPLE ROW (a non-poster image: menu / notice / random photo)
